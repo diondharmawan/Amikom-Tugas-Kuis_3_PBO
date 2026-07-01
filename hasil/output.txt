@@ -1,0 +1,13 @@
+--------------------------------------------------
+SIMULASI KUIS 3 PBO - FRANSISCUS ASISI KANANDA H.D.
+--------------------------------------------------
+
+--- Uji Enkapsulasi Tabungan ---
+Saldo Awal: Rp 50000
+Saldo Setelah Ubah Valid: Rp 100000
+Validasi Berhasil: Saldo tidak boleh negatif!
+
+--- Uji Polimorfisme & Overriding (Audio) ---
+[Standar] Memutar 'Bohemian Rhapsody' dari penyimpanan lokal.
+[Premium Dolby Atmos] Memutar 'Stairway to Heaven' pada 320kbps (Fitur Spatial Audio Aktif).
+--------------------------------------------------

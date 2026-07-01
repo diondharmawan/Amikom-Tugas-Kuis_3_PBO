@@ -1,0 +1,40 @@
+# Kredensial dan konfigurasi lokal
+.env
+.env.*
+*.local
+
+# Virtual Environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Log
+*.log
+
+# LaTeX temporary files
+*.aux
+*.bbl
+*.blg
+*.brf
+*.fls
+*.fdb_latexmk
+*.idx
+*.ilg
+*.ind
+*.lof
+*.lot
+*.out
+*.toc
+*.synctex.gz
+*.pdf
+
+# Archive
+*.zip
+*.tar.gz
+*.rar
